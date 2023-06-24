@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/e-commerce-mini-react-app/static/css/main.4958b21d.css",
-    "main.js": "/e-commerce-mini-react-app/static/js/main.1d6d494a.js",
-    "static/js/787.fd181921.chunk.js": "/e-commerce-mini-react-app/static/js/787.fd181921.chunk.js",
+    "main.js": "/e-commerce-mini-react-app/static/js/main.060d7a55.js",
+    "static/js/787.b843f1ea.chunk.js": "/e-commerce-mini-react-app/static/js/787.b843f1ea.chunk.js",
     "index.html": "/e-commerce-mini-react-app/index.html",
     "main.4958b21d.css.map": "/e-commerce-mini-react-app/static/css/main.4958b21d.css.map",
-    "main.1d6d494a.js.map": "/e-commerce-mini-react-app/static/js/main.1d6d494a.js.map",
-    "787.fd181921.chunk.js.map": "/e-commerce-mini-react-app/static/js/787.fd181921.chunk.js.map"
+    "main.060d7a55.js.map": "/e-commerce-mini-react-app/static/js/main.060d7a55.js.map",
+    "787.b843f1ea.chunk.js.map": "/e-commerce-mini-react-app/static/js/787.b843f1ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4958b21d.css",
-    "static/js/main.1d6d494a.js"
+    "static/js/main.060d7a55.js"
   ]
 }
