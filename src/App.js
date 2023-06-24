@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter basename='/'>
+    <BrowserRouter basename='/myShoppingSpot'>
     {/* <HashRouter> */}
     <Routes>
       <Route exact path='/' element={
