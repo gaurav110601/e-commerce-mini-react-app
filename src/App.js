@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter basename='/myShoppingSpot'>
+    <BrowserRouter basename='/e-commerce-mini-react-app'>
     {/* <HashRouter> */}
     <Routes>
       <Route exact path='/' element={
