@@ -30,3 +30,11 @@ The project was developed in conjunction with React.js, including Context, Hooks
 * [HTML CSS]
 * [Axios]
 * [Fake Store Api]
+
+
+
+### Developer
+
+Gaurav Sharma <br>
+gaurav110601@gmail.com <br>
+> [LinkedIn](https://www.linkedin.com/in/gaurav110601/)
